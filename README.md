@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-[![Buy me a virtual coffee](https://img.shields.io/badge/Buy%20me%20a%20virtual%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/A0A61Y715P)
+Ask me for a virtual coffee:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A61Y715P)
 
 <!--
 **Neighbor131/Neighbor131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
